@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" fill="none">
+  <!-- Red dot (replacing 'o' in Dot) -->
+  <circle cx="52" cy="38" r="18" fill="#CC0000"/>
+  
+  <!-- "D" -->
+  <text x="0" y="60" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#0000CC">D</text>
+  
+  <!-- "tspeaks" -->
+  <text x="70" y="60" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#0000CC">tspeaks</text>
+  
+  <!-- "c.c.c." subtitle -->
+  <text x="135" y="85" font-family="Arial, sans-serif" font-size="20" font-weight="normal" fill="#0000CC">c.c.c.</text>
+</svg>
